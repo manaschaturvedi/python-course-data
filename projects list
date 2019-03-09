@@ -1,0 +1,38 @@
+1) Easy
+
+Using Google Maps API, write a program to approximate the fare in rupees to travel between two given addresses using a Rickshaw, Cab and BEST bus (use respective standard commute rates as reference).
+
+Create a word cloud from a given text in Python (use existing APIs or modules)
+
+Write a script that fetches the real-time prices of the top 5 cryptocurrencies in Rupees and Dollars (use an API)
+
+
+2) Medium
+
+Using Twitter API, fetch all tweets posted by a particular Twitter handle
+
+Using Twitter API, fetch all tweets based on a search keyword
+
+Write a program that can scrape data from bank statements in PDF format of any bank
+
+Using Twitter API, fetch all tweets posted by a particular Twitter handle and generate a list of most commonly used words used by that handle.
+
+Using linear regression, predict the prices of Bitcoin 7 days into the future
+
+
+
+3) Hard
+
+Using Twitter API, fetch tweets related to a particular stock market company posted in the last one week and find whether the overall sentiment of that company was positive or negative using sentiment analysis (using NLTK module)
+
+ Implement Linear Regression with Gradient Descent algorithm from scratch in Python
+
+Using NSEPy or nsetools modules, write a script to predict the performance of Infosys share in the next three days based on historical price data using a regression algorithm (use SciKit Learn module to implement regression)
+
+Implement a basic Neural Network in Python from scratch
+
+Solve Kaggle's Titanic problem using a regression algorithm
+
+Perform Exploratory Data Analysis (EDA) on Kaggle’s ‘House Prices: Advanced Regression Techniques’ problem.
+
+
